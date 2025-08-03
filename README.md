@@ -149,7 +149,7 @@ AarogyaChain/
 
 **Rohit Bari**
 Java Developer | Backend & Full Stack Enthusiast
-[GitHub](https://github.com/rohitbari) • [LinkedIn](https://linkedin.com/in/rohitbari)
+[GitHub]([https://github.com/rohitbari]) • [LinkedIn]([https://www.linkedin.com/in/rohit-bari-7628b6257/])
 
 ---
 
